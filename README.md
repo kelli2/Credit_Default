@@ -6,7 +6,7 @@ Please use this link to view the file with internal navigation links:
 ### http://nbviewer.jupyter.org/github/kelli2/Credit_Default/blob/master/Kaggle_HomeCredit_Davies.ipynb
 
 ### Summary
-The goal of Home Credit Default Risk Kaggle competition was to predict which credit applicants are most likely to default on home loans. The project here had an ROC AUC score of 0.79558 in the competition and ranked in the top 6.5% (#463 of 7198 teams), earning a bronze medal. The top score in the competition had an ROC AUC of 0.80570.
+The goal of Home Credit Default Risk Kaggle competition was to predict which credit applicants are most likely to default on home loans. I entered as a solo contestant and the project here had an ROC AUC score of 0.79558 in the competition and ranked in the top 6.5% (#463 of 7198 teams), earning a bronze medal. The top score in the competition had an ROC AUC of 0.80570.
 
 One challenge to the competition was working with large datafiles with lots of missing data. There were many features for over 300,000 loans. In the main application file, the median amount of missing data per loan was 30%. There were several supplemental files that often contained multiple rows for a given loan, and consequently the largest files had over a million rows. Feature engineering was important because most features needed to be summarized for a given application and most features had very little predictive power on their own.
 
