@@ -2,7 +2,7 @@
 
 Author: Kelli Davies
 
-Please use this link to view the file with internal navigation links:
+Please use this link to view the complete file with internal navigation links:
 ### http://nbviewer.jupyter.org/github/kelli2/Credit_Default/blob/master/Kaggle_HomeCredit_Davies.ipynb
 
 ### Summary
