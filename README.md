@@ -1,6 +1,6 @@
 ### Python Machine Learning: Kaggle Competition Home Credit Default August 2018
 
-Author: Kelli Davies
+Author: Kelli (Davies) Roache
 
 Please use this link to view the complete file with internal navigation links:
 ### http://nbviewer.jupyter.org/github/kelli2/Credit_Default/blob/master/Kaggle_HomeCredit_Davies.ipynb
